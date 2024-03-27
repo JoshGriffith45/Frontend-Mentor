@@ -1,0 +1,79 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+.recipeSheet {
+    background-color: hsl(30, 54%, 90%);
+    margin-top: 200px; 
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    border-radius: 8%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-top: 60px;
+    
+}
+
+h1 {
+    font-size: 60px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+h3 {
+    margin-left: 25px;
+}
+
+p {
+    display: block;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.prepTime {
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 1%;
+    background-color: hsl(330, 100%, 98%);
+    border: solid hsl(330, 100%, 98%)
+    
+}
+
+.Ingredients {
+    margin-left: 60px;
+}
+
+.Instructions {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.Nutrition {
+    margin-left: 60px;
+}
+
+.Cal {
+    margin-left: 60px;
+}
+.Cal2 {
+    margin-left: 650px;
+}
+.Carb {
+    margin-left: 665px;
+}
+.Prot {
+    margin-left: 655px;
+}
+.Fat {
+    margin-left: 680px;
+}
+h4 {
+    margin-bottom: 60px;
+    color: hsl(30, 54%, 90%);
+}
